@@ -25,4 +25,8 @@ In this repository, I document all the valuable resources I've gathered during m
 - Dynamic NFTs (on-chain or off-chain metadata)
 - NFT Lending / Borrowing (JPEG’d, NFTFi)
 
+# Projects to Build for Your Portfolio and Practice: 
+
+- [Building NFT Marketplace](https://www.youtube.com/playlist?list=PLWUCKsxdKl0olgEF4OxXVk2B-jwpGqL5d)
+
 
