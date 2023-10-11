@@ -27,6 +27,12 @@ In this repository, I document all the valuable resources I've gathered during m
 
 # Projects to Build for Your Portfolio and Practice: 
 
-- [Building NFT Marketplace](https://www.youtube.com/playlist?list=PLWUCKsxdKl0olgEF4OxXVk2B-jwpGqL5d)
+- [Building NFT Marketplace](https://www.youtube.com/playlist?list=PLWUCKsxdKl0olgEF4OxXVk2B-jwpGqL5d) ( I personally am working on this )
+- Stable DeFi Coin
+- Uniswap clone [Uniswap](https://app.uniswap.org/) ( I haven't worked on this yet, but i am jumping to building DeFi products asap )
+* [Uniswap clone Tutorials](https://www.youtube.com/watch?v=Yiu6XOE8qfQ&list=PLWUCKsxdKl0qnycyLvK_EOVD8wU1UYSbb)
+- Custom wallet like MetaMask
+- Staking dApp
+- ICO Platform
 
 
