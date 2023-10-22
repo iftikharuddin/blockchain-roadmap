@@ -34,4 +34,15 @@ In this repository, I document all the valuable resources I've gathered during m
 - Staking dApp
 - ICO Platform
 
+# Concepts and Domains to explore 
+
+[ I will add more details to each domain soon ]
+
+- Blockchain Core Engineering
+- Cryptography Research
+- DevOps & Infrastructure
+- Security
+- DeFi Research & Development
+- L2 tooling & Infrastructure
+
 
