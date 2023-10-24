@@ -45,4 +45,8 @@ In this repository, I document all the valuable resources I've gathered during m
 - DeFi Research & Development
 - L2 tooling & Infrastructure
 
+# Security / Auditing
+
+- [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
+
 
