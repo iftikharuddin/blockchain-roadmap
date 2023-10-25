@@ -47,6 +47,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 # Security / Auditing
 
+- CodeHawk First Flights (https://www.codehawks.com/first-flights) 
 - [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
 
 
