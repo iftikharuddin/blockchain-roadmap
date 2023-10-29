@@ -47,7 +47,10 @@ In this repository, I document all the valuable resources I've gathered during m
 
 # Security / Auditing
 
-- CodeHawk First Flights (https://www.codehawks.com/first-flights) 
+- [CodeHawk First Flights](https://www.codehawks.com/first-flights) 
 - [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
 
+# Tests
+
+- [Foundry testing](https://www.youtube.com/watch?v=HA0GWauMOsU&list=PLO5VPQH6OWdUrKEWPF07CSuVm3T99DQki&index=2)
 
