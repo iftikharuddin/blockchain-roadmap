@@ -4,7 +4,7 @@ In this repository, I document all the valuable resources I've gathered during m
 # Courses/Tutorials to watch:
 
 - [DeFi](https://www.youtube.com/playlist?list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
-- EVM Crashcourse(https://www.youtube.com/watch?v=BtJXuUApcsA&list=PLLPhHLWAvZo3K6zk0-hVrtcnAYn-xEN7r)
+- [EVM Crashcourse](https://www.youtube.com/watch?v=BtJXuUApcsA&list=PLLPhHLWAvZo3K6zk0-hVrtcnAYn-xEN7r)
 - I started with Patrick Collins course [Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course
 | Foundry Edition 2023](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 * Make sure to build all the projects and add them to your GitHub for portfolio and practice.
