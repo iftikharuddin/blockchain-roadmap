@@ -50,6 +50,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 - [CodeHawk First Flights](https://www.codehawks.com/first-flights) 
 - [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
+- Part 2
 - [Practical Smart Contract Security](https://www.youtube.com/watch?v=T7VQI5EW6ZY)
 
 # Tests
