@@ -13,11 +13,13 @@ In this repository, I document all the valuable resources I've gathered during m
 
 # Now what?
 
-⚡️ 10 essential NFT topics that you need to master as a **blockchain developer**/**smart contract engineer**:
+⚡️ Essential topics that you need to master as a **blockchain developer**/**smart contract engineer**:
 
 - ERC-721 token standard [ will add links soon to all these ]
 - ERC-1155 multi-token standard
 - NFT Metadata (on-chain and off-chain)
+- Lending/Borrowing protcols e.g Aave, Compound, Curve etc
+- Staking
 - ERC-2981 Royalties Standard
 - ERC721A (gas optimized for cheaper minting)
 - NFT Marketplace protocols (Opensea, Blur, LooksRare, Rarible)
@@ -48,6 +50,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 # Security / Auditing
 
+- [Secureum](https://github.com/x676f64/secureum-mind_map)
 - [CodeHawk First Flights](https://www.codehawks.com/first-flights) 
 - [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
 - Part 2
