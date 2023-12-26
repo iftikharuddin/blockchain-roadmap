@@ -61,6 +61,10 @@ In this repository, I document all the valuable resources I've gathered during m
 - [Foundry testing](https://www.youtube.com/watch?v=HA0GWauMOsU&list=PLO5VPQH6OWdUrKEWPF07CSuVm3T99DQki&index=2)
 - [Fuzzing workshop](https://www.youtube.com/watch?v=QofNQxW_K08&list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI)
 
+# Audit tools
+
+- https://solodit.xyz/checklist
+
 # Extra
 
 - [Chainlink CCIP](https://youtu.be/yJ1mXgumOAk)
