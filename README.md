@@ -53,7 +53,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - [Secureum](https://github.com/x676f64/secureum-mind_map)
 - [CodeHawk First Flights](https://www.codehawks.com/first-flights) 
 - [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
-- Part 2
+- [Advanced Web3 Security Course | Part 2](https://www.youtube.com/watch?v=zLnxRvf6IMA)
 - [Practical Smart Contract Security](https://www.youtube.com/watch?v=T7VQI5EW6ZY)
 
 # Tests
