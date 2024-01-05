@@ -55,6 +55,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - [Advanced Web3 Security Course | Part 1](https://youtu.be/DRZogmD647U)
 - [Advanced Web3 Security Course | Part 2](https://www.youtube.com/watch?v=zLnxRvf6IMA)
 - [Practical Smart Contract Security](https://www.youtube.com/watch?v=T7VQI5EW6ZY)
+- Try to solve these [damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
 
 # Tests
 
