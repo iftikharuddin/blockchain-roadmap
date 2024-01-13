@@ -57,6 +57,9 @@ In this repository, I document all the valuable resources I've gathered during m
 - [Practical Smart Contract Security](https://www.youtube.com/watch?v=T7VQI5EW6ZY)
 - Try to solve these [damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
 - [Secureum's RACE Videos Solutions](https://youtu.be/x0Sj-byEQ1U?si=kBTV65c8Wsm3oAPW)
+- Huff
+- Vyper
+- Rust
 
 # Tests
 
