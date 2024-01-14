@@ -61,6 +61,13 @@ In this repository, I document all the valuable resources I've gathered during m
 - Vyper
 - Rust
 
+## Platform for Audit contests 
+
+- https://www.codehawks.com/
+- https://cantina.xyz/
+- https://code4rena.com/
+- https://www.sherlock.xyz/
+
 # Tests
 
 - [Foundry testing](https://www.youtube.com/watch?v=HA0GWauMOsU&list=PLO5VPQH6OWdUrKEWPF07CSuVm3T99DQki&index=2)
