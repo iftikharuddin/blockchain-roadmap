@@ -61,6 +61,16 @@ In this repository, I document all the valuable resources I've gathered during m
 - Vyper
 - Rust
 
+# Basic concepts to study and explore for becoming the best security researcher
+
+- [Masterchef](https://www.youtube.com/watch?v=ySBiVZaub1Q&list=PLLkrq2VBYc1Y4kL1lr-W_qwgI8De6M2BC)
+- Uniswap RareSkills Book
+- Chainlink CCIP
+- AMM
+- Dexes
+- EVM Basics, Huff
+- 
+
 ## Platform for Audit contests 
 
 - https://www.codehawks.com/
