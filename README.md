@@ -60,6 +60,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - Huff
 - Vyper
 - Rust
+- GO
 
 # Basic concepts to study and explore for becoming the best security researcher
 
@@ -69,7 +70,6 @@ In this repository, I document all the valuable resources I've gathered during m
 - AMM
 - Dexes
 - EVM Basics, Huff
-- 
 
 ## Platform for Audit contests 
 
