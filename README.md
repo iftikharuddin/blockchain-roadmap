@@ -70,6 +70,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - AMM
 - Dexes
 - EVM Basics, Huff
+- [Rollups](https://youtu.be/7pWxCklcNsU)
 
 ## Platform for Audit contests 
 
