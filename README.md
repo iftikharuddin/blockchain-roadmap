@@ -78,6 +78,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - https://cantina.xyz/
 - https://code4rena.com/
 - https://www.sherlock.xyz/
+- https://immunefi.com
 
 # Tests
 
