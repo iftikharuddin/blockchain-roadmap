@@ -72,6 +72,22 @@ In this repository, I document all the valuable resources I've gathered during m
 - EVM Basics, Huff
 - [Rollups](https://youtu.be/7pWxCklcNsU)
 
+## Protocols to explore as security researcher
+
+- Aave
+- Compound
+- Uniswap
+- SushiSwap
+- MakerDAO
+- Balancer
+- Curve Finance
+- Synthetix
+- DYDX
+- CCIP
+- LayerZero
+- Lido
+- Blast
+
 ## Platform for Audit contests 
 
 - https://www.codehawks.com/
