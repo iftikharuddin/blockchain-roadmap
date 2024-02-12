@@ -109,3 +109,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 - [Chainlink CCIP](https://youtu.be/yJ1mXgumOAk)
 
+# Internships/Fellowships
+- [yAcademyDAO](https://twitter.com/yAcademyDAO/status/1757029430600642834)
+- [nethermind](https://www.nethermind.io/internship)
+
