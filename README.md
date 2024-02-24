@@ -7,8 +7,8 @@ In this repository, I document all the valuable resources I've gathered during m
 - [EVM Crashcourse](https://www.youtube.com/watch?v=BtJXuUApcsA&list=PLLPhHLWAvZo3K6zk0-hVrtcnAYn-xEN7r)
 - I started with Patrick Collins course [Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course
 | Foundry Edition 2023](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
+- [Stable Coin)(https://youtu.be/8dRAd-Bzc_E)
 * Make sure to build all the projects and add them to your GitHub for portfolio and practice.
-* Finish as many challenges as possible in [speedrunethereum](https://speedrunethereum.com/)
 * Before diving into frontend integrations in **dApps**, ensure you have a solid grasp of JavaScript. If you're new to these languages, mastering React/Next.js and JavaScript is essential for seamless work on the frontend of decentralized applications (dApps).
 
 # Now what?
