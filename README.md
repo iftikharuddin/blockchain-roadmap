@@ -1,7 +1,7 @@
 # blockchain-roadmap
 In this repository, I document all the valuable resources I've gathered during my journey to becoming a blockchain developer
 
-# Courses/Tutorials to watch:
+# Courses/Tutorials:
 
 - [DeFi](https://www.youtube.com/playlist?list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
 - [EVM Crashcourse](https://www.youtube.com/watch?v=BtJXuUApcsA&list=PLLPhHLWAvZo3K6zk0-hVrtcnAYn-xEN7r)
@@ -26,7 +26,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - Blue chip NFT collections (CryptoPunks, Bored Ape Yacht Club, CryptoKitties)
 - Royalty Registries and Operator Filters
 - Dynamic NFTs (on-chain or off-chain metadata)
-- NFT Lending / Borrowing (JPEG’d, NFTFi)
+- NFT Lending / Borrowing (JPEG’d, NFTFi, Arcade.xyz)
 
 # Projects to Build for Your Portfolio and Practice: 
 
