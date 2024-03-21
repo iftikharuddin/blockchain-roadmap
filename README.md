@@ -62,7 +62,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - Rust
 - GO
 - EVM
-
+- [Formal Verification]
 # Basic concepts to study and explore for becoming the best security researcher
 
 - [Masterchef](https://www.youtube.com/watch?v=ySBiVZaub1Q&list=PLLkrq2VBYc1Y4kL1lr-W_qwgI8De6M2BC)
