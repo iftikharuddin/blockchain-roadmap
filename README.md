@@ -93,8 +93,8 @@ In this repository, I document all the valuable resources I've gathered during m
 
 ## Platform for Audit contests 
 
-- https://www.codehawks.com/
 - https://cantina.xyz/
+- https://www.codehawks.com/
 - https://code4rena.com/
 - https://www.sherlock.xyz/
 - https://immunefi.com
@@ -111,6 +111,7 @@ In this repository, I document all the valuable resources I've gathered during m
 # Extra
 
 - [Chainlink CCIP](https://youtu.be/yJ1mXgumOAk)
+- 
 
 # Internships/Fellowships
 - [yAcademyDAO](https://twitter.com/yAcademyDAO/status/1757029430600642834)
