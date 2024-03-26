@@ -90,6 +90,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - LayerZero
 - Lido
 - Blast
+- USDT/USDC/Beanstalk and all stable coins
 
 ## Platform for Audit contests 
 
