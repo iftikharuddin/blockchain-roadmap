@@ -35,7 +35,6 @@ In this repository, I document all the valuable resources I've gathered during m
 - [Uniswap clone Tutorials](https://www.youtube.com/watch?v=Yiu6XOE8qfQ&list=PLWUCKsxdKl0qnycyLvK_EOVD8wU1UYSbb)
 - Custom wallet like MetaMask
 - [Staking dApp](https://www.youtube.com/watch?v=ka7B5mgSFgQ&list=PLWUCKsxdKl0oRCZA0GAnQpBGcHGCM4H3r&index=1&pp=iAQB)
-- ICO Platform
 
 # Concepts and Domains to explore 
 
