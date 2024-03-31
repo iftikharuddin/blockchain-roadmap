@@ -74,7 +74,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - [Rollups](https://youtu.be/7pWxCklcNsU)
 - [OP](https://www.youtube.com/watch?v=SKl5pEs8reY&list=PLO5VPQH6OWdX_Z9xXWVrl4wvcPv9Qusr9)
 
-## Protocols to explore as security researcher
+## Protocols to explore as **security researcher**
 
 - Aave
 - Compound
