@@ -111,7 +111,7 @@ In this repository, I document all the valuable resources I've gathered during m
 # Extra
 
 - [Chainlink CCIP](https://youtu.be/yJ1mXgumOAk)
-- 
+- https://www.trust-security.xyz/ 
 
 # Internships/Fellowships
 - [yAcademyDAO](https://twitter.com/yAcademyDAO/status/1757029430600642834)
