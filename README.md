@@ -36,7 +36,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - Custom wallet like MetaMask
 - [Staking dApp](https://www.youtube.com/watch?v=ka7B5mgSFgQ&list=PLWUCKsxdKl0oRCZA0GAnQpBGcHGCM4H3r&index=1&pp=iAQB)
 
-# Concepts and Domains to explore 
+# Concepts & Domains to explore 
 
 [ I will add more details to each domain soon ]
 
