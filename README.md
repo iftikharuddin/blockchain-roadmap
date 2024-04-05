@@ -112,6 +112,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 - [Chainlink CCIP](https://youtu.be/yJ1mXgumOAk)
 - https://www.trust-security.xyz/ 
+- https://dacian.me/exploiting-precision-loss-via-fuzz-testing
 
 # Internships/Fellowships
 - [yAcademyDAO](https://twitter.com/yAcademyDAO/status/1757029430600642834)
