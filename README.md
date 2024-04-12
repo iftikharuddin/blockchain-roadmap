@@ -17,7 +17,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 - ERC-721 token standard [ will add links soon to all these ]
 - ERC-1155 multi-token standard
-- NFT Metadata (on-chain and off-chain)
+- NFT Metadata (on-chain & off-chain)
 - Lending/Borrowing protcols e.g Aave, Compound, Curve etc
 - Staking
 - ERC-2981 Royalties Standard
@@ -60,7 +60,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - Vyper
 - Rust
 - GO
-- EVM
+- EVM (It's a must for researcher to study & learn in depth about EVM)
 - [Formal Verification](https://updraft.cyfrin.io/courses/formal-verification)
 
 # Basic concepts to study and explore for becoming the best security researcher
