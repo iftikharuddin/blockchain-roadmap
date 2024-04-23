@@ -114,6 +114,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - https://www.trust-security.xyz/ 
 - https://dacian.me/exploiting-precision-loss-via-fuzz-testing
 - [Complete Smart Contract Auditing System](https://youtu.be/5g-Hzw5ind8)
+- https://excalidraw.com/ ( for flowcharts and diagrams making )
 
 # Internships/Fellowships
 - [yAcademyDAO](https://twitter.com/yAcademyDAO/status/1757029430600642834)
