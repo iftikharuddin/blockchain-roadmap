@@ -116,6 +116,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - https://dacian.me/exploiting-precision-loss-via-fuzz-testing
 - [Complete Smart Contract Auditing System](https://youtu.be/5g-Hzw5ind8)
 - https://excalidraw.com/ ( for flowcharts and diagrams making )
+- Do multiple audits of each niche, one at a time.
 
 # Internships/Fellowships
 - [yAcademyDAO](https://twitter.com/yAcademyDAO/status/1757029430600642834)
