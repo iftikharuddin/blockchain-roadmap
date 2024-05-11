@@ -76,7 +76,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 ## Protocols to explore as **security researcher**
 
-- Aave
+- Aave ( new versions and audits )
 - Compound
 - Uniswap
 - SushiSwap
