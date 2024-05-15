@@ -15,7 +15,7 @@ In this repository, I document all the valuable resources I've gathered during m
 
 ⚡️ Essential topics that you need to master as a **blockchain developer**/**smart contract engineer**:
 
-- ERC-721 token standard [ will add links soon to all these ]
+- ERC-721 token standard 
 - ERC-1155 multi-token standard
 - NFT Metadata (on-chain & off-chain)
 - Lending/Borrowing protcols e.g Aave, Compound, Curve etc
