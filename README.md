@@ -18,7 +18,7 @@ In this repository, I document all the valuable resources I've gathered during m
 - ERC-721 token standard 
 - ERC-1155 multi-token standard
 - NFT Metadata (on-chain & off-chain)
-- Lending/Borrowing protcols e.g Aave, Compound, Curve etc
+- Lending/Borrowing protcols e.g Aave, Compound, Curve etc ( https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols )
 - Staking
 - ERC-2981 Royalties Standard
 - ERC721A (gas optimized for cheaper minting)
