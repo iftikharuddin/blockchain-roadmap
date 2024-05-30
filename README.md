@@ -107,7 +107,6 @@ In this repository, I document all the valuable resources I've gathered during m
 # Audit tools
 
 - https://solodit.xyz/checklist
-- Audit Wizards?
 
 # Extra
 
